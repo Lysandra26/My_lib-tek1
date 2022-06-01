@@ -13,5 +13,7 @@
 
 void my_putchar(char c);
 int my_put_str(char const *str);
+int my_strcmp(char const *s1, char const *s2);
+char *my_itoa(int nb);
 
 #endif /* !MY_H_ */

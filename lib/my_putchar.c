@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** my_sokoban
+** My_lib from tek1 - made by Lysandra
 ** File description:
 ** my_putchar
 */
