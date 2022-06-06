@@ -5,7 +5,7 @@
 ## Makefile
 ##
 
-SRC	=	$(wildcard lib/*.c) \
+SRC	=	$(wildcard lib/my/*.c) \
 
 OBJ	=	$(SRC:.c=.o) \
 
